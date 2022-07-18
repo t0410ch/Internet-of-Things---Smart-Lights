@@ -138,7 +138,7 @@
 
                
                 
-                <Label Content="晨晖物联平台" HorizontalAlignment="Left" Margin="16,0,0,0" VerticalAlignment="Top" Width="auto" FontSize="14"/>
+                <Label Content="物联平台" HorizontalAlignment="Left" Margin="16,0,0,0" VerticalAlignment="Top" Width="auto" FontSize="14"/>
                 <Label Content="开" HorizontalAlignment="Left" Width="auto" Height="auto" Margin="120,215,0,0" VerticalAlignment="Top"/>
                 <Label Content="关" HorizontalAlignment="Left" Width="auto" Height="auto" Margin="222,215,0,0" VerticalAlignment="Top"/>
                 <Label Content="开" HorizontalAlignment="Left" Width="auto" Height="auto" Margin="120,275,0,0" VerticalAlignment="Top"/>
